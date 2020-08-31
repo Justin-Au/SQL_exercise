@@ -1,1 +1,1 @@
-# SQL_exercise
+# My Learning on SQL
